@@ -1,0 +1,7 @@
+---
+Language: Cpp
+Standard: c++17
+BasedOnStyle: Microsoft
+
+IndentExternBlock: NoIndent
+PointerAlignment: Left
